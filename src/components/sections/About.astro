@@ -1,0 +1,58 @@
+---
+import Section from "../Section.astro"
+
+import { basics } from "@cv"
+const { about } = basics
+const s = "•"
+---
+<Section title="Sobre Mí">
+<ul>
+  {
+    about.map(
+      ({ summary, title, skills }) => {
+        
+        return (
+          <li>
+            <p>{summary}</p>
+            <article>
+              <header>
+                <div>
+                  <h4>{title}</h4>
+                  <p>{skills}</p>
+                </div>
+
+              </header>
+            </article>
+          </li>
+        )
+      }
+    )
+  }
+</ul>
+</Section>
+
+<style>
+  ul {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+  }
+
+  article h3 {
+    font-weight: 500;
+    color: #111;
+  }
+
+  article h4 {
+    color: #222;
+    font-weight: 500;
+  }
+
+  header {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin-bottom: 10px;
+  }
+ 
+</style>

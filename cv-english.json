@@ -1,0 +1,281 @@
+{
+  "basics": {
+    "name": "William Rodríguez Cruz",
+    "label": "Java Backend Developer | Spring Boot | Microservices | SCRUM PSFC",
+    "image": "/profile-cv.webp",
+    "email": "williamalcruz77@gmail.com",
+    "phone": "+57 3506340804",
+    "url": "https://midu.dev",
+    "about": [
+      {
+        "summary": "Results-driven Java Backend Developer with 2+ years of experience building secure and scalable backend applications. Leveraging a strong foundation in Object-Oriented Programming with Java, Spring Boot, and relational databases. Currently transitioning towards a mid-senior role, actively expanding my skillset in microservices architectures (Spring Cloud) and cloud technologies (AWS/Azure/GCP). Possess a solid understanding of the software development lifecycle (SDLC) and Agile methodologies (Scrum/PSFC) for efficient project delivery."
+      },
+      {
+        "title": "Technical Skills",
+        "skills": ["•Java (2+ yr)", " •Spring Boot (2 yr)", " •Spring Security (1 yr)", " •Microservices (Intermediate Understanding)", " •Cloud Technologies (Basic Understanding)"]
+      },
+      {
+        "title": "Data Handling",
+        "skills": ["•Java Persistence API (JPA)", " •MySQL - POSTGRESQL (3 yr)", " •No SQL Databases (MongoDB, Firestore)"]
+      },
+      {
+        "title": "Programming Languages",
+        "skills": ["•Java (2+ yr)", " •Javascript (1 yr) "]
+      },
+      {
+        "title": "Testing",
+        "skills": ["•Mockito", " •JUnit"]
+      },
+      {
+        "title": "Agile Framework",
+        "skills": ["•SCRUM (SPFC Certified)"]
+      },
+      {
+        "title": "Other Tools",
+        "skills": ["•Postman", " •Testrail", " •Git", " •GitHub", " •Visual Studio Code"]
+      }
+    ],
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Bogotá",
+      "countryCode": "ES",
+      "region": "Colombia"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "williamcruzwc",
+        "url": "https://www.linkedin.com/in/williamcruzwc/"
+      },
+      {
+      "network": "X",
+      "username": "willycruzdo",
+      "url": "https://x.com/willycruzdo"
+    },
+    {
+      "network": "GitHub",
+      "username": "freedomCruz",
+      "url": "https://github.com/freedomCruz"
+    }
+  ]
+  },
+  "work": [{
+    "name": "Bugitech S.A.S",
+    "position": "Java Software Engineer",
+    "url": "",
+    "startDate": "2022-12-01",
+    "endDate": null,
+    "summary": "User Management. User registration and account verification. User profile creation and management (including details, image, and password reset). Secure login with JWT-based authentication and refresh tokens. Account security measures like login attempt limits and two-factor authentication. User activity tracking for monitoring and reporting suspicious activity. Implement Role-Based Access Control (RBAC) to restrict access to application resources based on user roles and permissions",
+    "highlights": [
+      "Started the company"
+    ]
+  },
+  {
+    "name": "Inkubamos S.A.S",
+    "position": "Back End Developer",
+    "url": "",
+    "startDate": "2021-04-01",
+    "endDate": "2022-10-01",
+    "summary": "Designed and implemented a secure authentication system using JSON Web Tokens (JWT) and Spring Security for a mission-critical application at Inkubamos SAS. This ensured secure access control and a stateless authentication approach. Led the design and development of a scalable data model using JPA and Hibernate for a MySQL database, optimizing data storage and retrieval.",
+    "highlights": [
+      "Started the company"
+    ]
+  }
+  ],
+  "volunteer": [{
+    "organization": "Organization",
+    "position": "Volunteer",
+    "url": "https://organization.com/",
+    "startDate": "2012-01-01",
+    "endDate": "2013-01-01",
+    "summary": "Description…",
+    "highlights": [
+      "Awarded 'Volunteer of the Month'"
+    ]
+  }],
+  "education": [{
+    "institution": "Universidad Cooperativa de Colombia",
+    "url": "https://www.uoc.edu/portal/es/index.html",
+    "area": "Ingeniero de Sistemas",
+    "studyType": "Bachelor",
+    "startDate": "2010-01-01",
+    "endDate": "2015-01-01",
+    "score": "4.0",
+    "courses": [
+      "DB1101 - Basic SQL"
+    ]
+  },
+  {
+    "institution": "Universidad EAN",
+    "url": "https://www.uoc.edu/portal/es/index.html",
+    "area": "Gerencia de Proyectos - PMI",
+    "studyType": "Postgraduate",
+    "startDate": "2023-06-01",
+    "endDate": null,
+    "score": "4.0",
+    "courses": [
+      "PMI"
+    ]
+  }],
+  "awards": [{
+    "title": "Award",
+    "date": "2014-11-01",
+    "awarder": "Company",
+    "summary": "There is no spoon."
+  }],
+  "certificates": [{
+    "name": "SCRUM - SFPC™",
+    "date": "2024-01-07",
+    "issuer": "CertiProf",
+    "highlights": [
+      "Scrum Events",
+      "Scrum Artifacts",
+      "Lean"
+    ],
+    "url": "https://www.credly.com/badges/28e3679a-eb82-476c-9859-37b64cd763a2/linked_in_profile"
+  },
+  {
+    "name": "ISTQB® Training Foundation Level [CTFL 4.0]",
+    "date": "2021-11-07",
+    "issuer": "Udemy",
+    "highlights": [
+      "Agile Testing",
+      "Quality Assurance",
+      ""
+    ],
+    "url": "https://www.udemy.com/certificate/UC-99407d10-e0ab-404d-b9d9-febddeb2f78a/"
+  },
+  {
+    "name": "Software Testing desde cero : MasterClass",
+    "date": "2021-11-07",
+    "issuer": "Udemy",
+    "highlights": [
+      "Automation Testing",
+      "En desarrollo"
+    ],
+    "url": "https://www.udemy.com/certificate/UC-10a64123-3f70-4941-96e7-33c5b6f85ec8/"
+  }],
+  "publications": [{
+    "name": "Publication",
+    "publisher": "Company",
+    "releaseDate": "2014-10-01",
+    "url": "https://publication.com",
+    "summary": "Description…"
+  }],
+  "skills": [
+    {
+      "name": "Java",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web", "Frontend"
+      ]
+    },
+    {
+      "name": "SpringBoot",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web", "Frontend"
+      ]
+    },
+    {
+      "name": "MySQL",
+      "level": "Avanzado",
+      "keywords": [
+        "Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"
+      ]
+    },
+    {
+      "name": "Aws",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "Postman",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Backend", "Fullstack"
+      ]
+    },
+    {
+      "name": "Angular",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "CSS Framework", "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "JavaScript",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Backend", "JavaScript Superset"
+      ]
+    },
+    {
+      "name": "Node",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Backend", "JavaScript", "Servidor"
+      ]
+    },
+   
+    {
+      "name": "Git",
+      "level": "Avanzado",
+      "keywords": [
+        "Control de Versiones", "Colaboración", "Código Fuente"
+      ]
+    },
+    {
+      "name": "GitHub",
+      "level": "Avanzado",
+      "keywords": [
+        "Control de Versiones", "Colaboración", "Código Fuente", "Git"
+      ]
+    }
+    
+  ],
+  "languages": [{
+    "language": "Spanish",
+    "fluency": "Native speaker"
+  }, {
+    "language": "English",
+    "fluency": "Advanced"
+  }],
+  "interests": [{
+    "name": "Wildlife",
+    "keywords": [
+      "Ferrets",
+      "Unicorns"
+    ]
+  }],
+  "references": [{
+    "name": "Jane Doe",
+    "reference": "Reference…"
+  }],
+  "projects": [
+    {
+    "name": "invoice.app",
+    "isActive": true,
+    "description": "Gestión de facturación. Implementación de control de acceso basado en roles (RBAC) y seguridad con JWT usando Java y Spring Boot.",
+    "highlights": [
+      "Java & Spring Security",
+      "Two-Factor Authentication (2FA)",
+      "Frontend - Angular"
+    ],
+    "url": "https://mars.codes",
+    "github": ""
+  }, {
+    "name": "RestAPI",
+    "isActive": true,
+    "description": "RestAPI utilizando Java Persistnece API e Hibernate, se implementa DTO Pattern y testing con Mockito.",
+    "highlights": [
+      "Spring JPA",
+      "Spring Data Validation",
+      "PostgreSQL - Java - Mockito"
+    ],
+    "url": "https://adventjs.dev"
+  } ]
+}
